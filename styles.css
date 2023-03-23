@@ -1,3 +1,157 @@
-p {
-    color: red;
+/* TO-DO
+@media screen indicates the type of device a user is on
+We will have 2 sets of CSS one for mobile one for Desktop
+Their values are already set but mobile needs tweaking 
+not every character is in set
+
+Fonts are different in mobile and somewhat messed up
+
+
+*/
+    
+@media screen and (min-width:640px) and (max-width:959px) { 
+    #Ireland{
+              font-family: Comic Sans MS, Comic Sans;
+              color:rgb(255, 230, 0);
+              font-size: 35px;
+          }
+          #Joyce{
+              font-family: 'Times New Roman', serif;
+              color:aqua;
+              font-size: 35px;
+          }
+           /* Body + Top Nav Bar */
+           body {
+          background-color: bisque;    
+              margin:0;    
+              padding:0;
+              }
+          
+          .topBarText {
+              color: rgb(0, 0, 0);
+              font-size: 50px;
+              text-align:left;
+              position: relative;
+              bottom:30px;
+            }
+            .sticky {
+              position: fixed;
+              top: 0;
+              width: 100%;
+            }
+            #topBar{
+              border-bottom: 1px solid  rgb(69, 69, 69);
+              height: 5%;
+              width: 100%;
+          
+              background-color: rgba(184, 182, 182, 0.815)
+          }
+          
+          /* Main Page Info */
+             #mainInfoBox{
+              color: rgb(255, 255, 255);
+              background-color: rgb(245, 128, 128);
+              border: 2px solid rgb(69, 69, 69);;
+          
+              height: 30%;
+              width: 60%;
+                  position: relative;
+                  top:100px;
+                  padding-bottom: 1000px; 
+          
+          }
+          
+          /* Texts */
+          P{
+              padding: px;
+          }
+          .rightSideText{
+              text-align:right;
+              margin-right: 1px;
+          
+          }
+          .centerSideText{
+              text-align:center;
+              margin-left: 80px;
+          }
+          
+          /* Temp */    }     
+
+
+          /* -----------------DESKTOP--------------------- */
+   
+      @media screen and (min-width:1920px) { 
+   /* Characters */
+   #Ireland{
+      font-family: Comic Sans MS, Comic Sans, cursive;
+      color:rgb(255, 230, 0);
+      font-size: 30px;
   }
+  #Joyce{
+      font-family: 'Times New Roman', serif;
+      color:aqua;
+      font-size: 30px;
+  }
+   /* Body + Top Nav Bar */
+   body {
+  background-color: bisque;    
+      margin:0;    
+      padding:0;
+      }
+  
+  .topBarText {
+      color: rgb(0, 0, 0);
+      font-family: fantasy;
+      font-size: 50px;
+      text-align:left;
+      position: relative;
+      bottom:40px;
+    }
+    .sticky {
+      position: fixed;
+      top: 0;
+      width: 100%;
+    }
+    #topBar{
+      border-bottom: 1px solid  rgb(69, 69, 69);
+      height: 9%;
+      width: 100%;
+  
+      background-color: rgba(184, 182, 182, 0.815)
+  }
+  
+  /* Main Page Info */
+     #mainInfoBox{
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      color: rgb(255, 255, 255);
+      background-color: rgb(245, 128, 128);
+      border: 2px solid rgb(69, 69, 69);;
+  
+      height: 30%;
+      width: 20%;
+          position: relative;
+          top:90px;
+          padding-bottom: 550px; 
+  
+  }
+  
+  /* Texts */
+  P{
+      padding: px;
+  }
+  .rightSideText{
+      text-align:right;
+      
+  }
+  .centerSideText{
+      text-align:center;
+      margin-left: 150px;
+  }
+  
+  /* Temp */
+  
+      } 
+   
+   
+  
+  
