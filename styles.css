@@ -8,6 +8,7 @@ Fonts are different in mobile and somewhat messed up
 
 
 */
+    
    /* Characters */
    #Ireland{
       font-family: Comic Sans MS, Comic Sans, cursive;
@@ -56,9 +57,11 @@ Fonts are different in mobile and somewhat messed up
   
       height: 30%;
       width: 20%;
-          position: relative;
-          top:90px;
-          padding-bottom: 550px; 
+      position: relative;
+
+         margin: auto;
+         margin-top: 100px;
+          padding: 10px;
   
   }
   
@@ -76,7 +79,3 @@ Fonts are different in mobile and somewhat messed up
   }
   
   /* Temp */
-   
-   
-  
-  
