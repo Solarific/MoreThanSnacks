@@ -1,5 +1,5 @@
  /* Body */
-    body {
+ body {
     background-color: #15161a;    
         margin:0;    
         padding:0;
@@ -7,22 +7,22 @@
     
    /* Characters */
    #ireland{
-    font-family: "Times New Roman", Times, serif;
       color: #e1ad01;
   }
   #cici{
-    font-family: "Lucida Console", "Courier New", monospace;
       color:#e92e2e;
   }
   #em{
-    font-family: "Georgia", Times, serif;
       color: #6bff0c;
   }
+  #joyce{
+    color: #00f7ff;
+}
    /* Top Nav Bar */
   
   .topBarText {
       color: #fff;
-      font-family: "Lucida Console", "Courier New", monospace;
+      font-family: 'Share Tech Mono', monospace;
       font-size: 50px;
       text-align:left;
       position: relative;
@@ -45,8 +45,8 @@
   
   /* Main Page Info */
      #mainInfoBox{
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
       color: rgb(255, 255, 255);
+      font-family: 'Courier Prime', monospace;
       background-color: #1B1D24;
       border: 5px solid #6C4F71;
       height: 30%;
@@ -55,6 +55,12 @@
          margin-top: 85px;
           padding: 10px;
   
+  }
+
+  a:link {
+    color: rgb(13, 240, 13);
+    background-color: transparent;
+    text-decoration: none;
   }
   
   /* Texts */
