@@ -1,4 +1,6 @@
  /* Body */
+
+
  body {
     background-color: #15161a;    
         margin:0;    
@@ -6,18 +8,19 @@
         }
     
    /* Characters */
-  #ireland{
+   #ireland{
       color: #e1ad01;
   }
   #cici{
-      color:#7a0000;
+      color:#e92e2e;
   }
   #em{
-      color: #9cff00;
+      color: #6bff0c;
   }
-  #joyce{
-    color: #00f7ff;
-}
+  #eoghan {
+      color:#1ee8e1;
+  }
+  
    /* Top Nav Bar */
   
   .topBarText {
@@ -56,13 +59,24 @@
           padding: 10px;
   
   }
-
-  a:link {
-    color: rgb(13, 240, 13);
-    background-color: transparent;
-    text-decoration: none;
-  }
   
+    #Yugioh{
+      color: rgb(255, 255, 255);
+      font-family: 'Courier Prime', monospace;
+      background-color: #1B1D24;
+      border: 5px solid #6C4F71;
+      height: 30%;
+      width: 30%;
+         margin: auto;
+         margin-top: 85px;
+          padding: 10px;
+  
+  }
+  img {
+  width: 60%;
+  margin: auto;
+  display: block;
+}
   /* Texts */
   P{
       padding: px;
@@ -76,3 +90,22 @@
       margin-left: 150px;
   }
   
+     /* unvisited link */
+a:link {
+  color: red;
+}
+
+/* visited link */
+a:visited {
+  color: red;
+}
+
+/* mouse over link */
+a:hover {
+  color: red;
+}
+
+/* selected link */
+a:active {
+  color: red;
+}
