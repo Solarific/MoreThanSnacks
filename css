@@ -45,6 +45,13 @@
       width: 100%;
       background-color: #000;
   }
+    a{
+        color: #fff;
+        font-family: 'Share Tech Mono', monospace;
+        font-size: 30px;
+        text-align: center;
+      }
+      
   
   /* Main Page Info */
      #mainInfoBox{
