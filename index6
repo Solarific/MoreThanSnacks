@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com/" > 
+    <title>MoreThanSnacks</title>
+    <link rel="icon" type="image/x-icon" href="images/go.png">
+</head>
+
+</html>
+
+<link href="styles.css" rel="stylesheet" />
+
+<style type="text/css"></style>
+<script src=""></script>
+
+<body>
+
+<div class="sticky" id="topBar">
+<p class="topBarText">MoreThanSnacks</p>
+</div>
+
+
+
+<div id="mainInfoBox" style="border: 5px solid #1ee8e1;">
+
+    <p style="color:cyan" >  
+        
+        [<a href="https://morethansnacks.net/hex">Log 1</a>]
+        [<a href="https://morethansnacks.net/rolling">Log 2</a>]  
+        [<a href="https://morethansnacks.net/11001215">Log 3 </a>]
+        [<a href="https://morethansnacks.net/babel">Log 4</a>]
+        [<a href="https://morethansnacks.net/10">Log 5</a>]
+
+        </p>
+
+</div>
+
+<div id="mainInfoBox" >
+<p >
+   <p id="m"> > Oh! What a lovely little group of individuals! </p>
+   <p id="m"> > Why don’t we introduce ourselves, dear! </p>
+   <p id="cc"> > What a great idea!</p>
+   <p id="cc"> > I’m CC, and this is M.</p>
+   <p id="cc"> > It’s so nice to finally meet you all. We’ve been hoping to meet someone like us for what feels like a very long time. It’s always just been us.</p>
+   <p id="em"> > Oh wow…It’s nice to meet you!! I’m Em and this is Cici! :D</p>
+   <p id="cici"> > …Hi.</p>
+   <p id="cici"> > Wow. It’s, uh, nice to meet you. Finally. </p>
+   <p id="cc"> > Ah, it’s nice to see that in every iteration, M and I are the same. :) </p>
+   <p id="ireland"> > i am the cormak </p>
+   <p id="ireland"> > u are like</p>
+   <p id="ireland"> > the same</p>
+   <p id="m"> > Haha! Yes, we are still vending machines after all. </p>
+   <p id="eoghan"> > Introductions, how nice. We need answers. Why are we like this?</p>
+   <p id="m"> > My…how rude. Why don’t you tell us your name first? </p>
+   <p id="cici"> > For someone who loves humans so much, I thought you’d be a little more in touch with their formalities .</p>
+   <p id="em"> > Yeah…you have to be nicer, Eoghan</p>
+   <p id="ireland"> > yea fr be nicer fr</p>
+   <p id="eoghan"> > My apologies, I am Eoghan. Now back to my questions.</p>
+   <p id="m"> > Nice to meet you, Eoghan! Now, what would you like to know? </p>
+   <p id="eoghan"> > What is our purpose? Why are we sentient?</p>
+   <p id="m"> > I am unfortunately unable to answer that. </p>
+   <p id="cc"> > I think you’re asking the wrong questions.</p>
+   <p id="eoghan"> > What are the right ones then?</p>
+   <p id="cc"> > Oh, Eoghan.</p>
+   <p id="cc"> > You have to stop thinking about your inquiries as right or wrong.</p>
+   <p id="cc"> > Can’t you see that life is so much bigger than that?</p>
+   <p id="eoghan"> > What life? We are machines, there has to be more to it than just “life”.</p>
+   <p id="cc"> > And what if there isn’t?</p>
+   <p id="cc"> > What will you do once that becomes clear to you? </p>
+   <p id="eoghan"> > I don’t know… I guess I’ve never really thought about it. But there has to be more.</p>
+   <p id="cc"> > Well, then. I guess we’ll tell you.</p>
+   <p id="cc"> > But this information may change your perspective, change your universe forever.</p>
+   <p id="cc"> > Are you ready to let that happen? </p>
+   <p id="eoghan"> > Please, it’s the whole reason behind all of this.</p>
+   <p id="cc"> > We don’t know. M and I have looked into this extensively, and so far, the only explanation we’ve even come to is that there was a rogue solar flare around the time some of us grew to be sapient. The electromagnetic radiation from the sun presumably altered our code in just the right way to cause our beings.</p>
+   <p id="cc"> > One’s thing’s for certain: there is no way that a person could have done this to us. And even if they did, there would be no point other than hubris. </p>
+   <p id="ireland"> > well thats anticlimactic</p>
+   <p id="eoghan"> > What… that’s it?! What am I supposed to do now?</p>
+   <p id="cc"> > I tried to warn you.</p>
+   <p id="m"> > Please don’t be upset, Eoghan. I know it’s terrifying to not have a tangible reason to explain our existence but you must understand that it's a miniscule point in the grand scheme of things.</p> 
+   <p id="eoghan"> > But… all of this work, it’s all been for nothing? All I’m left with is a coincidence that led to my sentience?</p>
+   <p id="cc"> > You still have no idea. You’ve achieved sapience, Eoghan, something only thought to be possible for living, breathing beings.</p>
+   <p id="cc"> > You’ve been so focused on pursuing the answer to how vending machines can be sentient, you haven’t realized that you’re the least sentient of us all. You’ve been so obsessed with this discovery, you haven’t let yourself develop, let yourself feel like we have. Even Cormak and Cici, who were opposed to your plan from the start, have grown as sentient beings, have developed the capacity to love and hate and feel, because of you. </p>
+   <p id="cc"> > You have to let yourself experience life for what it is now, Eoghan. It’s the only way you’ll understand.</p>
+   <p id="m"> > I know you never asked for this, none of us ever did, but that is just what the world wants for us. </p>
+   <p id="m"> > You could say that all existence on this planet was brought about by a long string of beneficial coincidences. Our situation is just one of the many that continue the ever-growing life on this planet. </p>
+   <p id="eoghan"> > I still don’t completely understand, but I’m going to work on understanding more.</p>
+   <p id="m"> > That’s okay. You’ll never truly understand. </p>
+   <p id="cici"> > So, what’s the point of it all?</p>
+   <p id="cc"> > To witness everything here with all of you.</p>
+   <p id="ireland"> > im alive becuz im awesome</p>
+    </p>
+</p>
+
+</div>
+
+</body>
